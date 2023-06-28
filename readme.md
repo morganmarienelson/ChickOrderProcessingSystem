@@ -51,4 +51,3 @@ This program is currently retrieving the file from a file path
 on my computer. However, this path can be commented out. Right above it, there
 is a commented out user prompt to enter the users desired file path. Once uncommented,
 a user can enter a file path to any input.txt file.
-# ChickOrderProcessor
